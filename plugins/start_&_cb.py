@@ -39,7 +39,7 @@ async def cb_handler(client, query: CallbackQuery):
                 InlineKeyboardButton('⚙️ Help', callback_data='help'),
                 InlineKeyboardButton('💙 About', callback_data='about')
                 ],[
-                InlineKeyboardButton("🧑‍💻 Developer 🧑‍💻", url='https://t.me/CallAdminRobot')
+                InlineKeyboardButton("🧑‍💻 Developer 🧑‍💻", url='https://t.me/BEAST_1K')
                 ]])
         )
     elif data == "caption":
