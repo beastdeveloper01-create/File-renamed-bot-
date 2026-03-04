@@ -53,7 +53,7 @@ Use These Keywords To Setup Custom File Name
 <b>📚 Library :</b> <a href='https://pyrogram.org'>Pyrogram 2.0</a>
 <b>🚀 Server :</b> <a href='https://heroku.com'>Heroku</a>
 <b>📢 Channel :</b> <a href='https://t.me/Madflix_Bots'>Madflix Botz</a>
-<b>🧑‍💻 Developer :</b> <a href='https://t.me/BEAST_1K'>𝐃ᴇᴠᴇʟᴏᴩᴇʀ</a>
+<b>🧑‍💻 Developer :</b> <a href='https://t.me/BEAST_1K'>⎯꯭̽⚡️꯭᪳;" ໋݊𝐁𝐄𝐀𝐒𝐓;:♩►™𝐓𝐅𝐂ـ᭄</a>
     
 <b>♻️ Bot Made By :</b> @BEAST_BOTZ"""
 
