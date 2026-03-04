@@ -11,7 +11,7 @@ async def start(client, message):
     await madflixbotz.add_user(client, message)                
     button = InlineKeyboardMarkup([[
       InlineKeyboardButton('📢 Updates', url='https://t.me/Madflix_Bots'),
-      InlineKeyboardButton('💬 Support', url='https://t.me/MadflixBots_Support')
+      InlineKeyboardButton('💬 Support', url='https://t.me/Beast_sopport_group')
     ],[
       InlineKeyboardButton('⚙️ Help', callback_data='help'),
       InlineKeyboardButton('💙 About', callback_data='about')
