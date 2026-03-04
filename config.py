@@ -15,7 +15,7 @@ class Config(object):
     BOT_UPTIME  = time.time()
     START_PIC   = os.environ.get("START_PIC", "https://repgyetdcodkynrbxocg.supabase.co/storage/v1/object/public/images/telegram-1772633965903-8682fd42.jpg")
     ADMIN       = [int(admin) if id_pattern.search(admin) else admin for admin in os.environ.get('ADMIN', '8055522383').split()]
-    FORCE_SUB   = os.environ.get("FORCE_SUB", "-1003445057625") 
+    FORCE_SUB   = os.environ.get("FORCE_SUB", "-1003750928400") 
     LOG_CHANNEL = int(os.environ.get("LOG_CHANNEL", -1003414875571))
     
     # wes response configuration     
